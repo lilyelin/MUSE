@@ -16,9 +16,7 @@ Testing of homemade EEG circuit to provide low-cost alternative to Emotiv's head
 How To
 ------------------------
 
-1. Use the Emotiv EPOC Control Panel, once fully connected, set the training to output keyboard letters with newline: f = forward, b = back, r = right, l = left, s = stop
-
-If nothing else, please have something for stop. The trekbot in particular moves very fast.
+1. Use the Emotiv EPOC Control Panel, once fully connected, set the training to output keyboard letters with newline: f = forward, b = back, r = right, l = left, s = stop. If nothing else, please have something for stop. The trekbot in particular moves very fast.
 
 2. Open up (on Mac) terminal, (on Windows) PuTTY and navigate to the folder containing this file. To run type in:
 > sh musecontrol.sh
